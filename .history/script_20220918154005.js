@@ -11,3 +11,4 @@
 // else if (input != HangMan){
 //     Document.write("Ko co Game nay");
 // }
+document.getElementById("demo").innerHTML = "Hello JavaScript";
